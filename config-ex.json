@@ -1,4 +1,0 @@
-{
-    "locales": ["ru"],
-    "postgresUrl": "postgres://sob_user:sob_assword@localhost:5432/sob"
-}
